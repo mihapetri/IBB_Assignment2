@@ -1,5 +1,5 @@
 # IBB_Assignment2
-Second assignment for Image-Based Biometry
+Second assignment for Image-Based Biometry. All of the data is from AWE data set.
 
 ## Requirements
 
