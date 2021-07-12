@@ -1,4 +1,4 @@
-# IBB_Assignment 2
+# IBB_Assignment 2 - ear detection
 Second assignment for Image-Based Biometry. All of the data is from AWE data set.
 
 ## Requirements
